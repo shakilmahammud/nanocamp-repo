@@ -1,0 +1,7 @@
+git init
+git add 
+git commit message
+git push 
+
+this is 2nd repository 
+
